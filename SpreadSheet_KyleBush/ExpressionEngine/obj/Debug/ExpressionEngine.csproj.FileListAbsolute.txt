@@ -1,0 +1,5 @@
+D:\C#\SpreadSheet_KyleBush\ExpressionEngine\bin\Debug\ExpressionEngine.dll
+D:\C#\SpreadSheet_KyleBush\ExpressionEngine\bin\Debug\ExpressionEngine.pdb
+D:\C#\SpreadSheet_KyleBush\ExpressionEngine\obj\Debug\ExpressionEngine.csprojResolveAssemblyReference.cache
+D:\C#\SpreadSheet_KyleBush\ExpressionEngine\obj\Debug\ExpressionEngine.dll
+D:\C#\SpreadSheet_KyleBush\ExpressionEngine\obj\Debug\ExpressionEngine.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheet_KyleBush", "SpreadSheet_KyleBush\SpreadSheet_KyleBush.csproj", "{FE1FA776-E418-4321-935F-3CC9F7B15389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionEngine", "ExpressionEngine\ExpressionEngine.csproj", "{8D7BDC37-89A8-481C-A19A-861328F32A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheet", "SpreadSheet\SpreadSheet.csproj", "{D0A9484E-74ED-4D4E-8FFD-3D4E360AD630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1FA776-E418-4321-935F-3CC9F7B15389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1FA776-E418-4321-935F-3CC9F7B15389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1FA776-E418-4321-935F-3CC9F7B15389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1FA776-E418-4321-935F-3CC9F7B15389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7BDC37-89A8-481C-A19A-861328F32A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7BDC37-89A8-481C-A19A-861328F32A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7BDC37-89A8-481C-A19A-861328F32A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7BDC37-89A8-481C-A19A-861328F32A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A9484E-74ED-4D4E-8FFD-3D4E360AD630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A9484E-74ED-4D4E-8FFD-3D4E360AD630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A9484E-74ED-4D4E-8FFD-3D4E360AD630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A9484E-74ED-4D4E-8FFD-3D4E360AD630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

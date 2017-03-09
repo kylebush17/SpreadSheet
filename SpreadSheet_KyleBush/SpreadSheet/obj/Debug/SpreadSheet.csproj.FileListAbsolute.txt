@@ -1,0 +1,7 @@
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\obj\Debug\SpreadSheet.csprojResolveAssemblyReference.cache
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\bin\Debug\SpreadSheet.dll
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\bin\Debug\SpreadSheet.pdb
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\bin\Debug\ExpressionEngine.dll
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\bin\Debug\ExpressionEngine.pdb
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\obj\Debug\SpreadSheet.dll
+D:\C#\SpreadSheet_KyleBush\SpreadSheet\obj\Debug\SpreadSheet.pdb

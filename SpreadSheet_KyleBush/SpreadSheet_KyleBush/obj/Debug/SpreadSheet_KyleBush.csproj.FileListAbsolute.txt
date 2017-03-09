@@ -1,0 +1,13 @@
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\SpreadSheet_KyleBush.exe.config
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\obj\Debug\SpreadSheet_KyleBush.csprojResolveAssemblyReference.cache
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\obj\Debug\SpreadSheet_KyleBush.Form1.resources
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\obj\Debug\SpreadSheet_KyleBush.Properties.Resources.resources
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\obj\Debug\SpreadSheet_KyleBush.csproj.GenerateResource.Cache
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\SpreadSheet_KyleBush.exe
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\SpreadSheet_KyleBush.pdb
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\ExpressionEngine.dll
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\SpreadSheet.dll
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\ExpressionEngine.pdb
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\bin\Debug\SpreadSheet.pdb
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\obj\Debug\SpreadSheet_KyleBush.exe
+D:\C#\SpreadSheet_KyleBush\SpreadSheet_KyleBush\obj\Debug\SpreadSheet_KyleBush.pdb
